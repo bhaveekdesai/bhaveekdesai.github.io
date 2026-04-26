@@ -9,15 +9,11 @@ disqus_shortname: 'bhaveekdesai'
 author:
   name: 'Bhaveek Desai'
   email: bhaveekdesai@gmail.com
-  twitter_username: bhaveekdesai
-  facebook_username: bhaveekdesai
   github_username: bhaveekdesai
   linkedin_username: bhaveekdesai
-  instagram_username: bhaveekdesai
   youtube_username: bhaveekdesai
   soundcloud_username: bhaveekdesai
-  goodreads_username: bhaveekdesai
-
+  
 defaults:
   -
     scope:
